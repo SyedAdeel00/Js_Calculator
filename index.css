@@ -1,0 +1,13 @@
+#body{
+    background-color: aqua;
+}
+.heading_main{
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+}
+#calculate{
+    font-size: medium;
+    color: darkblue;
+    font-style: italic;
+}
